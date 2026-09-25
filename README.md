@@ -1,4 +1,4 @@
-Semantic Book Recommender
+# Semantic Book Recommender
 
 Recommends books from a natural-language description (e.g., "a story about forgiveness"), with filters for category and emotional tone.
 
